@@ -1,0 +1,25 @@
+.com-numbers {
+    margin: 5px;
+    border-bottom: 3px;
+    font: caption;
+    font-size: 13px;
+}
+
+.com-numbers:hover {
+    cursor: grab;
+}
+
+
+#comment-box {
+    margin: 0;
+    width: 100%;
+}
+
+#cm {
+    color: black;
+}
+
+#list {
+    list-style: none;
+    line-break: auto;
+}
